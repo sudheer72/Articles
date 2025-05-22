@@ -1,6 +1,6 @@
 # Abun - AI Content Dashboard
 
-![Dashboard Preview](https://images.pexels.com/photos/8439097/pexels-photo-8439097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Dashboard Preview](https://github.com/user-attachments/assets/1b1325e4-ed10-46cb-a889-31dcfc244ea2)
 
 A modern, responsive dashboard for managing AI-generated content built with React, TypeScript, and shadcn/ui components.
 
@@ -99,11 +99,8 @@ src/
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](https://images.pexels.com/photos/8439086/pexels-photo-8439086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
-### Article View
-![Article View](https://images.pexels.com/photos/8439066/pexels-photo-8439066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+### Article View Dashboard
+![Article View Dasboard](https://github.com/user-attachments/assets/9e1be199-8f1a-49aa-9af3-c261a0f09300)
 
 ## Development
 
